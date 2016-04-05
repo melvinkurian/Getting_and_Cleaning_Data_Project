@@ -1,11 +1,12 @@
 # Author:MK
 # Title : Coursera Getting and Cleaning Data Course Project
-# Sub Tite: 
+# Sub Tite: Tidy Training Analysis Data Set
 # Date  : 04/04/2016
 # Version: V1.0
 
 
-# Purpose
+# Purpose of the project 
+
 # 1.Merges the training and the test sets to create one data set.
 # 2.Extracts only the measurements on the mean and standard deviation for each measurement.
 # 3.Uses descriptive activity names to name the activities in the data set
